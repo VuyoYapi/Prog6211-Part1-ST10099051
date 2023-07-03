@@ -20,4 +20,5 @@ For the final part of the POE we are required to build a graphical interface the
 ![Screenshot 2023-07-03 151145](https://github.com/VuyoYapi/Prog6211-Part1-ST10099051/assets/103922433/96a9eaf0-2892-491f-8948-16bc91f29cc4)
 ![Screenshot 2023-07-03 151110](https://github.com/VuyoYapi/Prog6211-Part1-ST10099051/assets/103922433/6de4f6fb-f2b0-4719-9e94-dd785becc085)
 ![Screenshot 2023-07-03 150647](https://github.com/VuyoYapi/Prog6211-Part1-ST10099051/assets/103922433/5323d100-020b-4cf6-883b-af3f32950179)
+![Screenshot 2023-07-03 150625](https://github.com/VuyoYapi/Prog6211-Part1-ST10099051/assets/103922433/402fa394-129b-4ce1-a45b-2598afc63a98)
 https://github.com/VuyoYapi/Prog6211-Part1-ST10099051
